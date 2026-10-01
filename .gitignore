@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded Pascal VOC data used by A4
+/A4/VOCdevkit/
+/A4/eecs598/VOCdevkit/
